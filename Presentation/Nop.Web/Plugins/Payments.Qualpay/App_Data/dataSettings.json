@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=LAPTOP-6MNO4FMI;Initial Catalog=nopcommerceTest;Integrated Security=True;Persist Security Info=False",
+  "RawDataSettings": {}
+}
